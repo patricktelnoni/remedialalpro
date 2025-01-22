@@ -6,7 +6,7 @@ Buat  program Java untuk menghitung biaya taksi yang akan diterima oleh supir be
 
 Output program:
 
-Total km: 2
-Honor taksi:20000.0
-Total km: 10
-Honor taksi:90000.0
+Total km: 2 <br>
+Honor taksi:20000.0 <br>
+Total km: 10 <br>
+Honor taksi:90000.0 <br>
